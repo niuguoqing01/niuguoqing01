@@ -20,12 +20,19 @@
 
 <div align="center">
 
-| 平台 | 联系方式 |
-|---|---|
-| 🐙 GitHub | [@niuguoqing01](https://github.com/niuguoqing01) |
-| 📮 Email | guoqingniu3@gmail.com |
-| 💬 QQ | 1683630933 |
-| 🟢 微信 | niuguoqing2026 |
+<a href="https://github.com/niuguoqing01">
+  <img src="https://img.shields.io/badge/GitHub-niuguoqing01-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:guoqingniu3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-guoqingniu3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/QQ-1683630933-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" />
+
+<img src="https://img.shields.io/badge/WeChat-niuguoqing2026-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
 
 </div>
 
