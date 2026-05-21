@@ -47,36 +47,29 @@
 
 ---
 
-## 🧑‍💻 关于我
+## 🧑‍💻 关于我 & 技术方向
 
-👋 你好，我是 **牛国庆**。
+👋 你好，我是 **牛国庆**，目前是一名 **AI 应用开发工程师**。
 
-我目前是一名 **AI 应用开发工程师**，主要专注于 **AI 大模型应用开发、RAG 知识库、Agent 工具调用、Prompt 编排、前后端工程化、服务部署、数据库设计、系统优化** 等方向。
+我专注于 **AI 大模型应用开发、RAG 知识库、Agent 工具调用、Prompt 编排、前后端工程化、服务部署与系统优化**，代表作品是 **`vertexflow-ai`**。
 
-🔥 我的代表作品是：**`vertexflow-ai`**
+我更关注项目是否具备真正的工程价值：不仅能跑起来，还要 **架构清晰、代码稳定、可部署上线、可维护扩展、能持续迭代**。
 
-我不只追求项目“能跑起来”，更关注项目是否具备真正的工程价值：
+<div align="center">
 
-- 🧱 **架构清晰**：模块边界清楚，方便扩展和维护
-- ⚙️ **工程扎实**：前后端链路完整，代码结构稳定
-- 🧠 **AI 可落地**：不只是调用模型，而是围绕业务场景做应用能力
-- 🚀 **可部署上线**：关注 Docker、Nginx、Linux、云服务器部署
-- 🛡️ **可维护扩展**：重视可复用、可迭代、可优化
-- 🔍 **能定位问题**：具备排查接口、部署、服务、环境问题的能力
-- 📦 **能形成闭环**：从需求、开发、部署到优化持续推进
-
----
-
-## 🚀 我的技术方向
-
-| 方向 | 能力 |
+| 方向 | 重点能力 |
 |---|---|
-| 🤖 AI 应用开发 | LLM 应用接入、RAG、Agent、Prompt Engineering、AI Workflow、智能问答、多模型适配 |
-| ⚙️ 后端开发 | Java、Python、Golang、C++、Spring Boot、Node.js、RESTful API、接口设计 |
-| 🎨 前端开发 | JavaScript、TypeScript、React、Vue、Next.js、Vite、Tailwind CSS、前端工程化 |
-| 🗄️ 数据库与中间件 | MySQL、Redis、PostgreSQL、MongoDB、Elasticsearch、OceanBase |
-| 🐳 工程化与部署 | Docker、Linux、Nginx、Kubernetes、Git、GitHub、云服务器、CI/CD |
-| 🧠 综合能力 | 需求理解、架构设计、代码实现、问题排查、性能优化、项目迭代、独立部署 |
+| 🤖 AI 应用开发 | LLM 接入、RAG、Agent、Prompt Engineering、AI Workflow、智能问答、多模型适配 |
+| ⚙️ 后端工程 | Java、Python、Golang、C++、Spring Boot、Node.js、RESTful API、接口设计 |
+| 🎨 前端工程 | JavaScript、TypeScript、React、Vue、Next.js、Vite、Tailwind CSS、组件化开发 |
+| 🗄️ 数据与中间件 | MySQL、Redis、PostgreSQL、MongoDB、Elasticsearch、OceanBase |
+| 🐳 部署与工程化 | Docker、Linux、Nginx、Kubernetes、Git、GitHub、云服务器、CI/CD |
+| 🚀 综合能力 | 架构设计、需求理解、问题排查、性能优化、项目上线、持续迭代 |
+
+</div>
+
+> 🔥 技术不是包装出来的，而是靠一个项目一个项目打磨出来的。  
+> 🚀 我会持续围绕 `vertexflow-ai` 打磨 AI 应用开发能力，做出真正有技术深度、有工程价值、能落地使用的 AI 应用作品。
 
 ---
 
