@@ -20,19 +20,28 @@
 
 <div align="center">
 
-<a href="https://github.com/niuguoqing01">
-  <img src="https://img.shields.io/badge/GitHub-niuguoqing01-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:guoqingniu3@gmail.com">
-  <img src="https://img.shields.io/badge/Email-guoqingniu3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/QQ-1683630933-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" />
-
-<img src="https://img.shields.io/badge/WeChat-niuguoqing2026-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+<table>
+  <tr>
+    <td align="center" width="180">
+      <strong>🐙 GitHub</strong><br/>
+      <a href="https://github.com/niuguoqing01">@niuguoqing01</a>
+    </td>
+    <td align="center" width="220">
+      <strong>📮 Email</strong><br/>
+      <a href="mailto:guoqingniu3@gmail.com">guoqingniu3@gmail.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <strong>💬 QQ</strong><br/>
+      1683630933
+    </td>
+    <td align="center" width="220">
+      <strong>🟢 微信</strong><br/>
+      niuguoqing2026
+    </td>
+  </tr>
+</table>
 
 </div>
 
