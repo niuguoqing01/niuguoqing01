@@ -19,7 +19,7 @@
 - 💬 QQ：`1683630933`
 - 🟢 微信：`niuguoqing2026`
 - 📮 邮箱：`guoqingniu3@gmail.com`
-- 🐙 GitHub：[@niuguoqing01](https://github.com/niuguoqing01)
+- 🐙 GitHub：[niuguoqing](https://github.com/niuguoqing01)
 
 
 🧠 我正在全力投入 `vertexflow-ai` 项目的开发，这是我目前最核心、最能代表我技术能力的 AI 应用项目。
