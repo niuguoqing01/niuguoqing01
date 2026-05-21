@@ -33,7 +33,5 @@
 ## 🛠 技术栈
 
 <p>
-  <p>
-  <img src="https://skillicons.dev/icons?i=python,java,go,js,ts,cpp,react,vue,nextjs,nodejs,vite,spring,mysql,redis,postgres,mongodb,elasticsearch,docker,kubernetes,linux,nginx,git,github,tailwind,html,css,jenkins,maven,gradle,idea,vscode,postman,prometheus,grafana,kafka,rabbitmq" />
-</p>
+  <img src="https://skillicons.dev/icons?i=python,java,go,js,ts,cpp,react,vue,nextjs,nodejs,vite,spring,mysql,redis,postgres,mongodb,elasticsearch,docker,kubernetes,linux,nginx,git,github,tailwind,vercel,cloudflare,html,css,jenkins,maven,idea,vscode,postman,prometheus,grafana,kafka,rabbitmq,fastapi,flask,npm,pnpm,bash,githubactions,gitlab,sqlite&perline=15" />
 </p>
