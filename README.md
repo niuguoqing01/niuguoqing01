@@ -2,46 +2,26 @@
 
 # 👋 Hi，我是 牛国庆
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+Application+Developer;Full-Stack+Engineering+Practitioner;RAG+%2F+Agent+%2F+Prompt+Engineering;Java+%2F+Python+%2F+Go+%2F+TypeScript;Keep+Building%2C+Keep+Shipping%2C+Keep+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=760&lines=AI+Application+Developer;RAG+%2F+Agent+%2F+Prompt+Engineering;Java+%2F+Python+%2F+Go+%2F+TypeScript;Keep+Building%2C+Keep+Shipping" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=niuguoqing01&label=Profile%20Views&color=0e75b6&style=flat" />
 <img src="https://img.shields.io/badge/AI-Application%20Developer-blueviolet" />
 <img src="https://img.shields.io/badge/Focus-RAG%20%7C%20Agent%20%7C%20LLM-orange" />
-<img src="https://img.shields.io/badge/Code-Java%20%7C%20Python%20%7C%20Go%20%7C%20TS-brightgreen" />
 <img src="https://img.shields.io/badge/Project-vertexflow--ai-red" />
 
 </div>
 
 ---
 
-## 📫 联系我
-
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="180">
-      <strong>🐙 GitHub</strong><br/>
-      <a href="https://github.com/niuguoqing01">@niuguoqing01</a>
-    </td>
-    <td align="center" width="220">
-      <strong>📮 Email</strong><br/>
-      <a href="mailto:guoqingniu3@gmail.com">guoqingniu3@gmail.com</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="180">
-      <strong>💬 QQ</strong><br/>
-      1683630933
-    </td>
-    <td align="center" width="220">
-      <strong>🟢 微信</strong><br/>
-      niuguoqing2026
-    </td>
-  </tr>
-</table>
+### 📫 联系我
+
+🐙 [GitHub @niuguoqing01](https://github.com/niuguoqing01) &nbsp;｜&nbsp;
+📮 guoqingniu3@gmail.com &nbsp;｜&nbsp;
+💬 QQ：1683630933 &nbsp;｜&nbsp;
+🟢 微信：niuguoqing2026
 
 </div>
 
@@ -77,10 +57,6 @@
 
 <div align="center">
 
-### 🤖 AI / Backend / Frontend / DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,go,js,ts,cpp,react,vue,nextjs,nodejs,vite,spring,mysql,redis,postgres,mongodb,elasticsearch,docker,kubernetes,linux,nginx,git,github,tailwind,vercel,cloudflare" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,go,js,ts,cpp,react,vue,nextjs,nodejs,vite,spring,mysql,redis,postgres,mongodb,elasticsearch,docker,kubernetes,linux,nginx,git,github,tailwind,vercel,cloudflare" />
 
 </div>
